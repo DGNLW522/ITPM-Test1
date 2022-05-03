@@ -4,7 +4,7 @@ import "react-datepicker/dist/react-datepicker.css";
 import './pharmacy.css';
 import swl from "sweetalert";
 
-export default class AddMadicine extends Component {
+export default class AddContact extends Component {
   constructor(props) {
     super(props);
 
